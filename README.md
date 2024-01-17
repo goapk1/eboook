@@ -15,6 +15,11 @@ Currently the extension supports the following websites:
 * [Bajaepub](http://bajaepub.com)
 * [Epublibre](https://www.epublibre.org)
 * [Lectulandia](https://www.lectulandia.com)
+* https://libros.vip/webs/epubgratis/
+* https://libros.vip/webs/lectuepubgratis/
+* https://libros.vip/webs/lectulandia/
+* https://lectuepubgratis.mobi/
+
 
 ## Issues and collaboration
 
